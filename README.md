@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 #i am atomic
 # test rpun
 #i am atomic
@@ -7,3 +8,6 @@
 #i am atomic
 =======
 # test rpun
+=======
+#i am atomic
+>>>>>>> a055a6d (ooooo)
